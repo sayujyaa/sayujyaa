@@ -60,14 +60,3 @@ Just a student who's thrilled to learn & eager for any new experiences.
 <a href="https://www.postman.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/>
 </a>
-
----
-
-### 🌱 Currently Learning
-<a href="https://www.docker.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-</a> &emsp;
-<a href="https://spring.io/projects/spring-boot">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="50" height="50"/>
-</a>
-
